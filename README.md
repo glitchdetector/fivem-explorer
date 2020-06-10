@@ -1,10 +1,12 @@
 # Explorer
 
 ![](https://i.imgur.com/WdrFY8N.png)
+(red zone for illustration)
 
 #### A map discovery system
 
 Hides blips from the map until you've discovered the area.
+Based on how the Singleplayer map hides blips.
 
 ## Configurations
 Options can be changed in the `config.lua` file, they're commented there.
