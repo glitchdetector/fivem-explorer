@@ -87,3 +87,6 @@ CoverArea = {
 -- Shows a trail where you've discovered areas among other random stuff
 -- You should probably not enable this unless you're modifying the script
 Debug = false
+
+-- Enable flashing of Blips when getting into view
+FlashDiscovered = false
